@@ -1232,7 +1232,7 @@ html {
 .trusted .value .cirkle {
   display: flex;
   justify-content: center;
-  margin: 40px 0;
+  margin: 40px 0 66px 0;
 }
 .trusted .value .cirkle__box {
   width: 12px;
@@ -1253,7 +1253,7 @@ html {
 @media screen and (min-width: 1400px) {
   .trusted .value .ballon {
     position: absolute;
-    bottom: -39px;
+    bottom: -68px;
     right: 26px;
   }
 }
@@ -1276,9 +1276,6 @@ html {
   color: #2b292d;
 }
 
-.page {
-  overflow-x: hidden;
-}
 @media screen and (min-width: 1400px) {
   .page {
     width: 1400px;

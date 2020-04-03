@@ -57,7 +57,7 @@
     .cirkle {
       display: flex;
       justify-content: center;
-      margin: 40px 0;
+      margin: 40px 0 66px 0;
       &__box {
         width: 12px;
         height: 12px;
@@ -76,7 +76,7 @@
       align-items: center;
       @include for-large-up {
         position: absolute;
-        bottom: -39px;
+        bottom: -68px;
         right: 26px;
       }
       &__image {

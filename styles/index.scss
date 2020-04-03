@@ -23,7 +23,7 @@ html {
   color: #2b292d;
 }
 .page {
-  overflow-x: hidden;
+  // overflow-x: hidden;
   @include for-large-up {
     width: 1400px;
     margin: auto;
